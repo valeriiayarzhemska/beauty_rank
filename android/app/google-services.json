@@ -1,0 +1,79 @@
+{
+  "project_info": {
+    "project_number": "329760040588",
+    "project_id": "beauty-mirror-7a0e1",
+    "storage_bucket": "beauty-mirror-7a0e1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329760040588:android:9bbb121f07cb4b4f8efda9",
+        "android_client_info": {
+          "package_name": "com.global_beauty_rank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329760040588-42eooof9p5jf2pf3jaq8k6lk71sotl0h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.global_beauty_rank",
+            "certificate_hash": "da38ba679cd430d669c588e69ee0a852dd8a6133"
+          }
+        },
+        {
+          "client_id": "329760040588-crmom2m6lo766pt028svk774vgn0qf3h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.global_beauty_rank",
+            "certificate_hash": "a8a8fdf0b07aa45e84b5bde15ba414415b7c5fc7"
+          }
+        },
+        {
+          "client_id": "329760040588-olv33taj629lfot3hgigo3qte52k12ma.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.global_beauty_rank",
+            "certificate_hash": "5f71198e1c3f7a4d152da1a915b0e22c0223a2c3"
+          }
+        },
+        {
+          "client_id": "329760040588-rl13movsnpa4e4piobr4b8ajo0r60ime.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.global_beauty_rank",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "329760040588-crhiia0qn264fs40p869tfdte70h1gep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSK8oZxPFfEDTxHSNEqNpFQq2ux_ouR3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329760040588-crhiia0qn264fs40p869tfdte70h1gep.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "329760040588-av7fa9fi1upd9g6i9cg3d7440viio7fh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.beauty-mirror.beautymirror",
+                "app_store_id": "6739949635"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

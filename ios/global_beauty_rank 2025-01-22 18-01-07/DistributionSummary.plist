@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>global_beauty_rank.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>3</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>79A33E2BAE425A7B75D9826D1A18413F39C34C35</string>
+				<key>dateExpires</key>
+				<string>22.01.2026</string>
+				<key>type</key>
+				<string>Cloud Managed Apple Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>0.12.0</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>79A33E2BAE425A7B75D9826D1A18413F39C34C35</string>
+						<key>dateExpires</key>
+						<string>22.01.2026</string>
+						<key>type</key>
+						<string>Cloud Managed Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>hermes.framework</string>
+					<key>symbols</key>
+					<true/>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>X65RRKS52F</string>
+						<key>name</key>
+						<string>Digital Global Solutions LLP</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>0.12.0</string>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>X65RRKS52F.com.beauty-mirror.beautymirror</string>
+				<key>beta-reports-active</key>
+				<true/>
+				<key>com.apple.developer.team-identifier</key>
+				<string>X65RRKS52F</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>global_beauty_rank.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>ff05351a-4e8b-4982-ba6f-b19166ea7101</string>
+				<key>dateExpires</key>
+				<string>22.01.2026</string>
+				<key>name</key>
+				<string>iOS Team Store Provisioning Profile: com.beauty-mirror.beautymirror</string>
+			</dict>
+			<key>symbols</key>
+			<true/>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>X65RRKS52F</string>
+				<key>name</key>
+				<string>Digital Global Solutions LLP</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>

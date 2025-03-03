@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>Beauty Mirror: Check, Plan, and Improve</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>$(PRODUCT_NAME)</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(MARKETING_VERSION)</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.329760040588-av7fa9fi1upd9g6i9cg3d7440viio7fh</string>
+				<string>fb1634772130751703</string>
+			</array>
+		</dict>
+	</array>
+	<key>FacebookAppID</key>
+	<string>1634772130751703</string>
+	<key>FacebookClientToken</key>
+	<string>f12628d9f8e7a37f2c9cb5c8df5c1fbf</string>
+  <key>FacebookDisplayName</key>
+  <string>Beauty Mirror</string>
+	<key>CFBundleVersion</key>
+	<string>$(CURRENT_PROJECT_VERSION)</string>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>message</string>
+		<string>readdle-spark</string>
+		<string>airmail</string>
+		<string>ms-outlook</string>
+		<string>googlegmail</string>
+		<string>inbox-gmail</string>
+		<string>ymail</string>
+		<string>superhuman</string>
+    <string>fbapi</string>
+    <string>fb-messenger-share-api</string>
+	</array>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<false/>
+		<key>NSAllowsLocalNetworking</key>
+		<true/>
+		<key>NSExceptionDomains</key>
+		<dict>
+			<key>185.241.61.18</key>
+			<dict>
+				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
+				<true/>
+			</dict>
+		</dict>
+	</dict>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>We need access to your media library to provide a personalized music experience in the app.</string>
+	<key>NSApplePayUsageDescription</key>
+	<string>This app uses Apple Pay to process payments.</string>
+	<key>NSCalendarsUsageDescription</key>
+	<string>We need access to your calendar to manage events related to your app experience.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>We use your camera to take photos for personalized beauty recommendations and give you a rating.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>We need your location to provide location-specific features and recommendations.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>We need permission to save edited or captured photos to your photo library.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>We need access to your photo library so you can upload images for a beauty analysis.</string>
+	<key>NSRemindersFullAccessUsageDescription</key>
+	<string>We need access to Reminders to help you keep track of beauty-related appointments or reminders.</string>
+	<key>NSUserTrackingUsageDescription</key>
+	<string>We use your data to provide a better experience and relevant advertisements.</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>NunitoSansBlack.ttf</string>
+		<string>NunitoSansBold.ttf</string>
+		<string>NunitoSansLight.ttf</string>
+		<string>NunitoSansMedium.ttf</string>
+		<string>NunitoSansRegular.ttf</string>
+		<string>NunitoSansSemiBold.ttf</string>
+	</array>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>arm64</string>
+	</array>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UIUserInterfaceStyle</key>
+	<string>Light</string>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+</dict>
+</plist>

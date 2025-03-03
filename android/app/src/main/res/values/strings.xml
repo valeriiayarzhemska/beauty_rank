@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Beauty Mirror: Check, Plan, and Improve</string>
+    <string name="facebook_app_id">1634772130751703</string>
+    <string name="facebook_client_token">f12628d9f8e7a37f2c9cb5c8df5c1fbf</string>
+    <string name="fb_login_protocol_scheme">fb1634772130751703</string>
+</resources>
