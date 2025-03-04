@@ -29,7 +29,7 @@ import { colors } from '../../../../constants/constants';
 import { styles } from './style';
 
 export const LoginForm = ({
-  navigatio,
+  navigation,
   isLoading,
   setIsSuccess = () => {},
   setIsLoading = () => {},
